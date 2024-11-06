@@ -1,5 +1,12 @@
 # MoL-TSR
 
+## Overview
+
+we propose **MoL-TSR**, which stands for **M**ixture-**o**f-**L**oRAs model for **T**ransferable **S**equential **R**ecommendation. Aiming to serve for not only different downstream domains, but also various downstream models.
+
+
+![](asset/model.png)
+
 ## Requirements
 
 ```
